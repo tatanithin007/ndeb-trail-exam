@@ -10,7 +10,7 @@ export default function App() {
   const [error, setError] = useState(null)
 
   useEffect(() => {
-    fetch('/questions.json')
+    fetch(import.meta.env.BASE_URL + 'questions.json')
       .then(res => {
         if (!res.ok) throw new Error('Failed to load questions')
         return res.json()
