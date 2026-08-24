@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "question": "The inferior alveolar nerve is a branch of which division of the trigeminal nerve?",
+    "options": [
+      "Ophthalmic division (V1)",
+      "Maxillary division (V2)",
+      "Mandibular division (V3)",
+      "Cervical branch of facial nerve"
+    ],
+    "answer": 2,
+    "explanation": "The inferior alveolar nerve is a branch of the mandibular division (V3) of the trigeminal nerve. V3 is the only division of the trigeminal that carries both sensory and motor fibers. It enters the mandibular foramen to travel through the mandibular canal, providing innervation to the mandibular teeth."
+  },
+  {
+    "id": 2,
+    "question": "Which foramen transmits the maxillary division (V2) of the trigeminal nerve as it exits the skull?",
+    "options": [
+      "Foramen ovale",
+      "Foramen rotundum",
+      "Foramen spinosum",
+      "Superior orbital fissure"
+    ],
+    "answer": 1,
+    "explanation": "The maxillary division (V2) exits the middle cranial fossa through the foramen rotundum into the pterygopalatine fossa. Foramen ovale transmits V3, foramen spinosum transmits the middle meningeal artery, and the superior orbital fissure transmits V1."
+  },
+  {
+    "id": 3,
+    "question": "Which muscle of mastication is the primary protruder of the mandible?",
+    "options": [
+      "Masseter",
+      "Temporalis",
+      "Lateral pterygoid",
+      "Medial pterygoid"
+    ],
+    "answer": 2,
+    "explanation": "The lateral pterygoid is the primary protruder of the mandible. Its inferior head originates from the lateral surface of the lateral pterygoid plate and inserts into the pterygoid fovea of the mandibular condyle. Bilateral contraction protrudes the mandible; unilateral contraction produces contralateral excursion."
+  },
+  {
+    "id": 4,
+    "question": "The parotid duct (Stensen's duct) opens into the oral cavity opposite which tooth?",
+    "options": [
+      "Maxillary first premolar",
+      "Maxillary second molar",
+      "Mandibular first molar",
+      "Maxillary first molar"
+    ],
+    "answer": 1,
+    "explanation": "Stensen's duct opens on the buccal mucosa opposite the maxillary second molar at the parotid papilla. The duct crosses the masseter muscle superficially, pierces the buccinator, and opens intraorally. This is clinically important when examining for salivary flow."
+  },
+  {
+    "id": 5,
+    "question": "Which nerve provides sensory innervation to the anterior two-thirds of the tongue?",
+    "options": [
+      "Glossopharyngeal nerve (CN IX)",
+      "Hypoglossal nerve (CN XII)",
+      "Lingual nerve (branch of V3)",
+      "Chorda tympani (branch of CN VII)"
+    ],
+    "answer": 2,
+    "explanation": "The lingual nerve (branch of V3) provides general sensory innervation (touch, temperature, pain) to the anterior two-thirds of the tongue. The chorda tympani (CN VII), which joins the lingual nerve, provides special sensory (taste) to the same area. The glossopharyngeal nerve (CN IX) handles both general and taste sensation for the posterior one-third."
+  },
+  {
+    "id": 6,
+    "question": "The maxillary artery is a terminal branch of which artery?",
+    "options": [
+      "Internal carotid artery",
+      "External carotid artery",
+      "Common carotid artery",
+      "Subclavian artery"
+    ],
+    "answer": 1,
+    "explanation": "The maxillary artery is the larger of the two terminal branches of the external carotid artery (the other being the superficial temporal artery). It arises within the parotid gland behind the neck of the mandible and supplies the deep structures of the face, including the teeth, palate, nasal cavity, and muscles of mastication."
+  },
+  {
+    "id": 7,
+    "question": "Which space infection is most likely to cause airway compromise and requires urgent management?",
+    "options": [
+      "Buccal space",
+      "Canine space",
+      "Submandibular space (Ludwig's angina)",
+      "Submental space"
+    ],
+    "answer": 2,
+    "explanation": "Ludwig's angina is a bilateral infection of the submandibular, sublingual, and submental spaces. It causes elevation and posterior displacement of the tongue, leading to rapid airway compromise. It is a life-threatening emergency requiring immediate airway management and surgical drainage."
+  },
+  {
+    "id": 8,
+    "question": "The temporomandibular joint (TMJ) is classified as which type of synovial joint?",
+    "options": [
+      "Hinge (ginglymus) only",
+      "Gliding (arthrodial) only",
+      "Compound ginglymoarthrodial joint",
+      "Ball and socket joint"
+    ],
+    "answer": 2,
+    "explanation": "The TMJ is a compound ginglymoarthrodial (hinge and gliding) joint. The lower compartment (below the articular disc) allows rotation (hinge movement) during initial mouth opening, while the upper compartment allows translation (gliding) during wide opening and protrusion."
+  },
+  {
+    "id": 9,
+    "question": "Which permanent tooth is most commonly congenitally missing (excluding third molars)?",
+    "options": [
+      "Maxillary lateral incisor",
+      "Mandibular second premolar",
+      "Maxillary second premolar",
+      "Mandibular central incisor"
+    ],
+    "answer": 1,
+    "explanation": "The mandibular second premolar is the most commonly congenitally missing permanent tooth after third molars. The order of frequency is: third molars > mandibular second premolars > maxillary lateral incisors > maxillary second premolars. Congenital absence is termed hypodontia (1-5 teeth missing)."
+  },
+  {
+    "id": 10,
+    "question": "The mental foramen is typically located in the region of which mandibular tooth?",
+    "options": [
+      "Canine",
+      "First premolar",
+      "Between the first and second premolars",
+      "First molar"
+    ],
+    "answer": 2,
+    "explanation": "The mental foramen is most commonly located between the apices of the mandibular first and second premolars, or at the apex of the second premolar. It transmits the mental nerve and vessels. Its position is clinically important for local anesthesia (mental/incisive block) and surgical procedures."
+  },
+  {
+    "id": 11,
+    "question": "Which tooth has the longest root in the permanent dentition?",
+    "options": [
+      "Maxillary central incisor",
+      "Maxillary canine",
+      "Mandibular canine",
+      "Maxillary first premolar"
+    ],
+    "answer": 1,
+    "explanation": "The maxillary canine has the longest root of all permanent teeth. Its long, robust root provides excellent anchorage in the alveolar bone, making it one of the last teeth to be lost in the dentition. This also makes it an important abutment for prosthetic restorations."
+  },
+  {
+    "id": 12,
+    "question": "Which cusp of the maxillary first molar is the largest?",
+    "options": [
+      "Mesiobuccal cusp",
+      "Distobuccal cusp",
+      "Mesiolingual cusp",
+      "Distolingual cusp"
+    ],
+    "answer": 2,
+    "explanation": "The mesiolingual cusp (cusp of Carabelli is sometimes an additional cusp on its lingual surface) is the largest cusp of the maxillary first molar. It is also the sharpest and most prominent cusp, functioning as a plunger cusp that occludes into the central fossa of the mandibular first molar."
+  },
+  {
+    "id": 13,
+    "question": "The pterygomandibular raphe, a landmark for the inferior alveolar nerve block, is formed by the junction of which two muscles?",
+    "options": [
+      "Masseter and medial pterygoid",
+      "Buccinator and superior pharyngeal constrictor",
+      "Lateral pterygoid and temporalis",
+      "Buccinator and masseter"
+    ],
+    "answer": 1,
+    "explanation": "The pterygomandibular raphe is a tendinous band formed at the junction of the buccinator muscle (anteriorly) and the superior pharyngeal constrictor (posteriorly). It extends from the pterygoid hamulus to the posterior mylohyoid line of the mandible and serves as a key landmark for the IAN block injection."
+  },
+  {
+    "id": 14,
+    "question": "Which anatomical structure forms the roof of the mouth and the floor of the nasal cavity?",
+    "options": [
+      "Soft palate",
+      "Hard palate",
+      "Alveolar process",
+      "Pterygoid plates"
+    ],
+    "answer": 1,
+    "explanation": "The hard palate forms the roof of the oral cavity and the floor of the nasal cavity. It is composed of the palatine processes of the maxillae (anterior three-quarters) and the horizontal plates of the palatine bones (posterior one-quarter). It is covered by keratinized masticatory mucosa."
+  },
+  {
+    "id": 15,
+    "question": "The nasopalatine nerve exits through which foramen to innervate the palatal mucosa of the anterior maxilla?",
+    "options": [
+      "Greater palatine foramen",
+      "Lesser palatine foramen",
+      "Incisive foramen",
+      "Infraorbital foramen"
+    ],
+    "answer": 2,
+    "explanation": "The nasopalatine nerve (a branch of V2 via the pterygopalatine ganglion) exits through the incisive foramen (located in the midline of the anterior hard palate behind the central incisors) to innervate the palatal mucosa and gingiva of the premaxillary region."
+  },
+  {
+    "id": 16,
+    "question": "Which primary (deciduous) molar most closely resembles the permanent maxillary first molar in morphology?",
+    "options": [
+      "Maxillary first primary molar",
+      "Maxillary second primary molar",
+      "Mandibular first primary molar",
+      "Mandibular second primary molar"
+    ],
+    "answer": 1,
+    "explanation": "The maxillary second primary molar closely resembles the permanent maxillary first molar in crown and root morphology. It typically has four cusps and three roots. The mandibular second primary molar similarly resembles the permanent mandibular first molar."
+  },
+  {
+    "id": 17,
+    "question": "What is the function of the articular disc in the temporomandibular joint?",
+    "options": [
+      "Produce synovial fluid",
+      "Attach the condyle to the temporal bone",
+      "Compensate for incongruity between articular surfaces and distribute load",
+      "Provide blood supply to the condyle"
+    ],
+    "answer": 2,
+    "explanation": "The articular disc is a biconcave fibrocartilaginous structure that divides the TMJ into superior and inferior compartments. Its primary function is to compensate for the incongruity between the convex condyle and the concave-convex articular eminence, and to distribute mechanical loads during function."
+  },
+  {
+    "id": 18,
+    "question": "Which muscle depresses the mandible and forms the floor of the mouth?",
+    "options": [
+      "Geniohyoid",
+      "Mylohyoid",
+      "Digastric (anterior belly)",
+      "Stylohyoid"
+    ],
+    "answer": 1,
+    "explanation": "The mylohyoid muscle forms the muscular floor of the mouth (oral diaphragm). It originates from the mylohyoid line of the mandible and inserts into the hyoid bone and a median fibrous raphe. When the hyoid is fixed, bilateral contraction depresses the mandible and elevates the floor of the mouth."
+  },
+  {
+    "id": 19,
+    "question": "Which artery is the primary blood supply to the mandibular teeth and periodontium?",
+    "options": [
+      "Facial artery",
+      "Inferior alveolar artery",
+      "Mental artery",
+      "Lingual artery"
+    ],
+    "answer": 1,
+    "explanation": "The inferior alveolar artery (a branch of the first part of the maxillary artery) enters the mandibular foramen and travels through the mandibular canal, giving off dental and interdental branches to supply the mandibular teeth, periodontium, and adjacent bone."
+  },
+  {
+    "id": 20,
+    "question": "The Curve of Spee is best described as:",
+    "options": [
+      "The mediolateral curvature of the occlusal plane",
+      "The anteroposterior curvature of the occlusal plane",
+      "The curvature of the dental arch from canine to canine",
+      "The angle between the occlusal plane and Frankfort horizontal"
+    ],
+    "answer": 1,
+    "explanation": "The Curve of Spee is the anteroposterior curvature of the occlusal plane, beginning at the tip of the mandibular canine and following the buccal cusp tips of the premolars and molars, continuing to the anterior border of the ramus. It is concave in the mandibular arch. The mediolateral curvature is called the Curve of Wilson."
+  },
+  {
+    "id": 21,
+    "question": "Which tooth is MOST likely to have two root canals in a single root?",
+    "options": [
+      "Maxillary canine",
+      "Mandibular central incisor",
+      "Maxillary lateral incisor",
+      "Mandibular first premolar"
+    ],
+    "answer": 3,
+    "explanation": "The mandibular first premolar frequently has complex canal anatomy. While it usually has one root, it commonly has two canals (one buccal and one lingual) in approximately 25-30% of cases. This is clinically significant in endodontic treatment, as missed canals lead to treatment failure."
+  },
+  {
+    "id": 22,
+    "question": "The danger triangle of the face is clinically significant because infections in this area can spread to the:",
+    "options": [
+      "Submandibular space",
+      "Parapharyngeal space",
+      "Cavernous sinus",
+      "Retropharyngeal space"
+    ],
+    "answer": 2,
+    "explanation": "The danger triangle of the face (from the bridge of the nose to the corners of the mouth) is significant because the facial vein in this area has no valves and communicates with the pterygoid venous plexus and cavernous sinus via the ophthalmic veins. Infections can spread retrogradely, causing cavernous sinus thrombosis."
+  },
+  {
+    "id": 23,
+    "question": "Which nerve innervates ALL the muscles of mastication?",
+    "options": [
+      "Facial nerve (CN VII)",
+      "Mandibular division of trigeminal (V3)",
+      "Maxillary division of trigeminal (V2)",
+      "Accessory nerve (CN XI)"
+    ],
+    "answer": 1,
+    "explanation": "The mandibular division (V3) of the trigeminal nerve provides motor innervation to all four muscles of mastication: masseter, temporalis, medial pterygoid, and lateral pterygoid. It also innervates the mylohyoid, anterior belly of the digastric, tensor veli palatini, and tensor tympani."
+  },
+  {
+    "id": 24,
+    "question": "The maxillary sinus (antrum of Highmore) is closely related to the roots of which teeth?",
+    "options": [
+      "Maxillary canines and lateral incisors",
+      "Maxillary premolars and molars",
+      "Mandibular premolars and molars",
+      "Maxillary central and lateral incisors"
+    ],
+    "answer": 1,
+    "explanation": "The floor of the maxillary sinus is closely related to the roots of the maxillary premolars and molars, with the mesiobuccal root of the first molar and the palatal root of the first molar often being closest. This proximity is clinically significant as it can lead to oroantral communication during extraction and sinusitis of dental origin."
+  },
+  {
+    "id": 25,
+    "question": "Which permanent tooth is the first to erupt in the oral cavity?",
+    "options": [
+      "Mandibular central incisor",
+      "Maxillary central incisor",
+      "Mandibular first molar",
+      "Maxillary first molar"
+    ],
+    "answer": 2,
+    "explanation": "The mandibular first molar is typically the first permanent tooth to erupt, at approximately 6 years of age (hence called the '6-year molar'). It erupts distal to the second primary molar without replacing any deciduous tooth. The mandibular central incisor often erupts around the same time."
+  },
+  {
+    "id": 26,
+    "question": "The oblique ridge on the maxillary first molar connects which two cusps?",
+    "options": [
+      "Mesiobuccal and distolingual",
+      "Mesiolingual and distobuccal",
+      "Mesiobuccal and mesiolingual",
+      "Distobuccal and distolingual"
+    ],
+    "answer": 1,
+    "explanation": "The oblique ridge is a unique feature of maxillary molars, formed by the union of the triangular ridge of the mesiolingual cusp and the distal cusp ridge of the distobuccal cusp. It runs obliquely across the occlusal surface and is a distinguishing characteristic of maxillary molars."
+  },
+  {
+    "id": 27,
+    "question": "Which type of papilla on the tongue contains taste buds and is arranged in a V-shaped row anterior to the sulcus terminalis?",
+    "options": [
+      "Filiform papillae",
+      "Fungiform papillae",
+      "Circumvallate (vallate) papillae",
+      "Foliate papillae"
+    ],
+    "answer": 2,
+    "explanation": "Circumvallate (vallate) papillae are the largest papillae, numbering 8-12, arranged in a V-shaped row just anterior to the sulcus terminalis. Each is surrounded by a trench (vallum) containing taste buds and serous glands of von Ebner. Filiform papillae are the most numerous but do NOT contain taste buds."
+  },
+  {
+    "id": 28,
+    "question": "During an inferior alveolar nerve block, the needle passes through which muscle?",
+    "options": [
+      "Masseter",
+      "Medial pterygoid",
+      "Buccinator",
+      "Lateral pterygoid"
+    ],
+    "answer": 2,
+    "explanation": "During a standard inferior alveolar nerve block (Halsted approach), the needle passes through the buccinator muscle as it penetrates the tissue medial to the ramus. The injection target is the pterygomandibular space near the mandibular foramen, which lies medial to the ramus and lateral to the medial pterygoid."
+  },
+  {
+    "id": 29,
+    "question": "The retromolar triangle is located distal to which tooth?",
+    "options": [
+      "Maxillary third molar",
+      "Mandibular third molar",
+      "Mandibular second molar",
+      "Maxillary second molar"
+    ],
+    "answer": 1,
+    "explanation": "The retromolar triangle (retromolar pad area) is a triangular area of mucosa located distal to the mandibular third molar on the alveolar ridge. It is bounded by the temporal crest laterally and the pterygomandibular raphe medially. It is an important landmark in prosthodontics for denture extension."
+  },
+  {
+    "id": 30,
+    "question": "Which cells are responsible for the formation of cementum?",
+    "options": [
+      "Odontoblasts",
+      "Ameloblasts",
+      "Cementoblasts",
+      "Osteoblasts"
+    ],
+    "answer": 2,
+    "explanation": "Cementoblasts are responsible for the formation of cementum, which covers the root surface of teeth. They originate from the dental follicle. Cementum provides attachment for periodontal ligament fibers (Sharpey's fibers). Odontoblasts form dentin, ameloblasts form enamel, and osteoblasts form bone."
+  }
+]
