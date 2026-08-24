@@ -1,362 +1,362 @@
 [
   {
     "id": 1,
-    "question": "A patient has lost the ability to taste on the anterior two-thirds of the tongue and has dry mouth on one side. Which nerve is most likely damaged?",
+    "question": "Which cranial nerve provides motor innervation to all muscles of mastication?",
     "options": [
-      "Lingual nerve proximal to chorda tympani junction",
-      "Chorda tympani nerve",
-      "Glossopharyngeal nerve",
-      "Greater petrosal nerve"
+      "Facial nerve (CN VII)",
+      "Mandibular division of trigeminal (V3)",
+      "Maxillary division of trigeminal (V2)",
+      "Glossopharyngeal nerve (CN IX)"
     ],
     "answer": 1,
-    "explanation": "The chorda tympani carries both taste fibers from the anterior two-thirds of the tongue and parasympathetic secretomotor fibers to the submandibular and sublingual glands. Damage produces ipsilateral loss of taste (anterior 2/3) AND reduced salivation from these glands. The lingual nerve proximal to the junction would also affect general sensation, which was not described."
+    "explanation": "The mandibular division (V3) of the trigeminal nerve provides motor innervation to the four muscles of mastication: masseter, temporalis, medial pterygoid, and lateral pterygoid. V3 is the only division of the trigeminal nerve that carries motor fibers."
   },
   {
     "id": 2,
-    "question": "During a parotidectomy, the surgeon must identify the facial nerve. Which anatomical landmark is most reliably used to locate the main trunk of CN VII?",
+    "question": "The maxillary artery is a terminal branch of which artery?",
     "options": [
-      "Retromandibular vein",
-      "Tragal pointer and tympanomastoid suture",
-      "External jugular vein",
-      "Posterior belly of digastric"
+      "Internal carotid artery",
+      "External carotid artery",
+      "Common carotid artery",
+      "Vertebral artery"
     ],
     "answer": 1,
-    "explanation": "The tragal pointer (a cartilaginous projection of the tragus) and the tympanomastoid suture are the most reliable landmarks for locating the main trunk of the facial nerve as it exits the stylomastoid foramen. The nerve lies approximately 1cm deep and inferior to the tragal pointer. The posterior belly of digastric is a secondary landmark."
+    "explanation": "The maxillary artery is the larger terminal branch of the external carotid artery (the other being the superficial temporal artery). It arises within the parotid gland and supplies the deep face structures including teeth, palate, nasal cavity, and muscles of mastication."
   },
   {
     "id": 3,
-    "question": "A stab wound to the posterior triangle of the neck damages a nerve on the surface of the scalenus medius. The patient cannot shrug the ipsilateral shoulder. Which nerve is injured?",
+    "question": "The foramen ovale transmits which structure?",
     "options": [
-      "Long thoracic nerve",
-      "Spinal accessory nerve (CN XI)",
-      "Dorsal scapular nerve",
-      "Suprascapular nerve"
+      "Maxillary nerve (V2)",
+      "Mandibular nerve (V3)",
+      "Middle meningeal artery",
+      "Ophthalmic nerve (V1)"
     ],
     "answer": 1,
-    "explanation": "The spinal accessory nerve (CN XI) crosses the posterior triangle superficially, running on the floor (over the levator scapulae and scalenus medius). It innervates the sternocleidomastoid and trapezius. Damage causes inability to shrug the shoulder (trapezius paralysis) and weakness in turning the head to the opposite side."
+    "explanation": "The foramen ovale transmits the mandibular division (V3) of the trigeminal nerve from the middle cranial fossa into the infratemporal fossa. The foramen rotundum transmits V2, the superior orbital fissure transmits V1, and the foramen spinosum transmits the middle meningeal artery."
   },
   {
     "id": 4,
-    "question": "Which fascial space communicates directly with the mediastinum, making infections in this space life-threatening?",
+    "question": "During an inferior alveolar nerve block, the needle is directed toward the mandibular foramen. This foramen is located on which surface of the ramus?",
     "options": [
-      "Submandibular space",
-      "Retropharyngeal space",
-      "Parapharyngeal space",
-      "Buccal space"
+      "Lateral surface",
+      "Medial surface",
+      "Anterior border",
+      "Posterior border"
     ],
     "answer": 1,
-    "explanation": "The retropharyngeal space lies between the buccopharyngeal fascia (covering the pharyngeal constrictors) and the prevertebral fascia. It extends from the skull base to the superior mediastinum (approximately T1-T4). Infections here can spread directly into the posterior mediastinum, causing life-threatening mediastinitis."
+    "explanation": "The mandibular foramen is located on the medial surface of the ramus of the mandible. It is partially covered by the lingula, a bony projection. The inferior alveolar nerve, artery, and vein enter through this foramen to travel within the mandibular canal."
   },
   {
     "id": 5,
-    "question": "A patient presents with unilateral tongue deviation toward the right side on protrusion, with atrophy and fasciculations of the right tongue. Which nerve is affected and where is the lesion?",
+    "question": "Which muscle of the soft palate is innervated by the trigeminal nerve (V3) rather than the vagus nerve?",
     "options": [
-      "Right hypoglossal nerve (CN XII) — lower motor neuron lesion",
-      "Left hypoglossal nerve (CN XII) — lower motor neuron lesion",
-      "Right vagus nerve (CN X) — upper motor neuron lesion",
-      "Left glossopharyngeal nerve (CN IX)"
+      "Levator veli palatini",
+      "Tensor veli palatini",
+      "Palatoglossus",
+      "Musculus uvulae"
     ],
-    "answer": 0,
-    "explanation": "The tongue deviates toward the side of a lower motor neuron (LMN) lesion of the hypoglossal nerve. The genioglossus on the affected side is paralyzed, so the intact contralateral genioglossus pushes the tongue toward the lesion side. Atrophy and fasciculations confirm LMN pathology. In an upper motor neuron lesion, the tongue deviates away from the lesion side."
+    "answer": 1,
+    "explanation": "The tensor veli palatini is the only palatal muscle innervated by V3 (via the nerve to the medial pterygoid). All other palatal muscles — levator veli palatini, palatoglossus, palatopharyngeus, and musculus uvulae — are innervated by the vagus nerve (CN X) through the pharyngeal plexus."
   },
   {
     "id": 6,
-    "question": "The cavernous sinus contains all of the following structures EXCEPT:",
+    "question": "The lingual nerve carries taste fibers from the anterior two-thirds of the tongue. These taste fibers originally belong to which cranial nerve?",
     "options": [
-      "Internal carotid artery",
-      "Abducens nerve (CN VI)",
-      "Optic nerve (CN II)",
-      "Oculomotor nerve (CN III)"
+      "Trigeminal nerve (CN V)",
+      "Facial nerve (CN VII) via chorda tympani",
+      "Glossopharyngeal nerve (CN IX)",
+      "Vagus nerve (CN X)"
     ],
-    "answer": 2,
-    "explanation": "The optic nerve (CN II) does NOT pass through the cavernous sinus. It passes through the optic canal. The cavernous sinus contains: internal carotid artery and CN VI within the sinus itself, and CN III, CN IV, V1, and V2 in the lateral wall of the sinus."
+    "answer": 1,
+    "explanation": "Taste fibers from the anterior two-thirds of the tongue belong to the facial nerve (CN VII). They travel via the chorda tympani, which joins the lingual nerve (V3) in the infratemporal fossa. The lingual nerve itself (V3) carries only general sensation (touch, pain, temperature) from this area."
   },
   {
     "id": 7,
-    "question": "A patient has numbness over the angle of the mandible following a parotidectomy. Which nerve was most likely injured?",
+    "question": "The parotid duct (Stensen's duct) pierces which muscle before opening into the oral cavity?",
     "options": [
-      "Marginal mandibular branch of CN VII",
-      "Great auricular nerve (C2, C3)",
-      "Auriculotemporal nerve (V3)",
-      "Lesser occipital nerve"
+      "Masseter",
+      "Buccinator",
+      "Medial pterygoid",
+      "Orbicularis oris"
     ],
     "answer": 1,
-    "explanation": "The great auricular nerve (C2, C3) is the most commonly injured nerve during parotidectomy. It crosses the sternocleidomastoid superficially and provides sensory innervation to the skin over the angle of the mandible, parotid gland, and earlobe. Its injury causes numbness over the lower ear and angle of the mandible."
+    "explanation": "Stensen's duct crosses the masseter superficially, then turns medially to pierce the buccinator muscle before opening into the oral cavity opposite the maxillary second molar. The buccinator is the key muscle it penetrates to enter the oral cavity."
   },
   {
     "id": 8,
-    "question": "Which structure passes through the foramen spinosum and is the primary source of epidural hematoma when ruptured?",
+    "question": "A patient presents with complete facial paralysis on one side, including the forehead. This is most consistent with:",
     "options": [
-      "Middle meningeal artery",
-      "Accessory meningeal artery",
-      "Maxillary artery",
-      "Superficial temporal artery"
+      "Upper motor neuron lesion (stroke)",
+      "Lower motor neuron lesion (Bell's palsy)",
+      "Trigeminal nerve injury",
+      "Hypoglossal nerve injury"
     ],
-    "answer": 0,
-    "explanation": "The middle meningeal artery (a branch of the first part of the maxillary artery) passes through the foramen spinosum to supply the dura mater. Rupture, typically from a temporal bone fracture, causes epidural (extradural) hematoma — arterial bleeding between the dura and skull that can rapidly compress the brain."
+    "answer": 1,
+    "explanation": "In a lower motor neuron lesion (e.g., Bell's palsy), the entire ipsilateral face is paralyzed including the forehead. In an upper motor neuron lesion (e.g., stroke), the forehead is SPARED because the upper face receives bilateral cortical innervation. This distinction is a key clinical test."
   },
   {
     "id": 9,
-    "question": "During extraction of a maxillary third molar, the tuberosity fractures and is displaced superiorly. Which structure is at greatest risk?",
+    "question": "Which structure passes through the mandibular canal along with the inferior alveolar nerve?",
     "options": [
-      "Maxillary sinus",
-      "Pterygoid venous plexus",
-      "Pterygopalatine fossa contents",
-      "Infratemporal fossa contents"
+      "Lingual artery",
+      "Inferior alveolar artery and vein",
+      "Mental nerve only",
+      "Facial artery"
     ],
-    "answer": 2,
-    "explanation": "The pterygopalatine fossa lies directly posterior and superior to the maxillary tuberosity. A displaced tuberosity fracture can disrupt its contents: the maxillary artery (third part), the pterygopalatine ganglion, and branches of V2. This can cause severe hemorrhage and nerve damage. While the pterygoid venous plexus is nearby, the pterygopalatine fossa is at greatest risk from superior displacement."
+    "answer": 1,
+    "explanation": "The inferior alveolar artery (a branch of the maxillary artery) and inferior alveolar vein accompany the inferior alveolar nerve through the mandibular canal. Together they form the inferior alveolar neurovascular bundle, supplying the mandibular teeth and surrounding bone."
   },
   {
     "id": 10,
-    "question": "The superior pharyngeal constrictor muscle receives motor innervation from which nerve?",
+    "question": "The submandibular gland wraps around the posterior border of which muscle?",
     "options": [
-      "Glossopharyngeal nerve (CN IX)",
-      "Vagus nerve (CN X) via pharyngeal plexus",
-      "Hypoglossal nerve (CN XII)",
-      "Mandibular nerve (V3)"
+      "Digastric (anterior belly)",
+      "Mylohyoid",
+      "Geniohyoid",
+      "Hyoglossus"
     ],
     "answer": 1,
-    "explanation": "All pharyngeal constrictor muscles (superior, middle, inferior) receive motor innervation from the vagus nerve (CN X) via the pharyngeal branch, which forms the pharyngeal plexus on the surface of the middle constrictor. The only exception is the cricopharyngeus part of the inferior constrictor, innervated by the recurrent laryngeal nerve (also CN X)."
+    "explanation": "The submandibular gland has a superficial part (below mylohyoid) and a deep part (above mylohyoid) that are continuous around the posterior free border of the mylohyoid muscle. The submandibular duct (Wharton's duct) emerges from the deep part and opens at the sublingual caruncle."
   },
   {
     "id": 11,
-    "question": "A patient has difficulty swallowing and the uvula deviates to the LEFT on saying 'ahh.' Which nerve is damaged?",
+    "question": "The cavernous sinus contains which cranial nerve passing through its center (not in the lateral wall)?",
     "options": [
-      "Left vagus nerve (CN X)",
-      "Right vagus nerve (CN X)",
-      "Left glossopharyngeal nerve (CN IX)",
-      "Right hypoglossal nerve (CN XII)"
+      "Oculomotor nerve (CN III)",
+      "Trochlear nerve (CN IV)",
+      "Abducens nerve (CN VI)",
+      "Ophthalmic nerve (V1)"
     ],
-    "answer": 1,
-    "explanation": "The uvula deviates TOWARD the intact side. If the uvula deviates to the left, the left palatal muscles are functioning normally while the right side is paralyzed. Therefore, the RIGHT vagus nerve is damaged. The vagus nerve innervates the levator veli palatini (via the pharyngeal plexus), which elevates the soft palate."
+    "answer": 2,
+    "explanation": "The abducens nerve (CN VI) passes through the center of the cavernous sinus alongside the internal carotid artery. CN III, CN IV, V1, and V2 travel within the lateral wall of the sinus. This makes CN VI most vulnerable to compression from cavernous sinus pathology."
   },
   {
     "id": 12,
-    "question": "Which structure forms the lateral boundary of the infratemporal fossa?",
+    "question": "Which lymph nodes receive drainage from the tip of the tongue?",
     "options": [
-      "Lateral pterygoid plate",
-      "Ramus of the mandible",
-      "Greater wing of the sphenoid",
-      "Zygomatic arch"
+      "Submandibular nodes (ipsilateral only)",
+      "Submental nodes (bilateral)",
+      "Deep cervical nodes (ipsilateral only)",
+      "Retropharyngeal nodes"
     ],
     "answer": 1,
-    "explanation": "The ramus of the mandible forms the lateral boundary of the infratemporal fossa. The medial boundary is the lateral pterygoid plate. The roof is the greater wing of the sphenoid (infratemporal surface). The fossa contains the pterygoid muscles, maxillary artery, pterygoid venous plexus, and branches of V3."
+    "explanation": "The tip of the tongue drains to the submental lymph nodes, and importantly, drainage is BILATERAL. This is clinically significant because a tumor at the tip of the tongue can spread to both sides of the neck, unlike lateral tongue lesions which initially drain ipsilaterally."
   },
   {
     "id": 13,
-    "question": "The lymphatic drainage of the tip of the tongue is clinically significant because it drains to:",
-    "options": [
-      "Ipsilateral submandibular nodes only",
-      "Ipsilateral deep cervical nodes only",
-      "Bilateral submental nodes",
-      "Retropharyngeal nodes"
-    ],
-    "answer": 2,
-    "explanation": "The tip of the tongue has bilateral lymphatic drainage, primarily to the submental lymph nodes. This is clinically critical because carcinoma of the tip of the tongue can metastasize to BOTH sides of the neck, unlike lateral tongue tumors which typically drain ipsilaterally first. This bilateral drainage affects surgical planning for neck dissection."
-  },
-  {
-    "id": 14,
-    "question": "A patient presents with a swelling in the floor of the mouth that is bluish, fluctuant, and transilluminant. It recurs after aspiration revealing mucoid fluid. Most likely diagnosis?",
-    "options": [
-      "Mucocele",
-      "Ranula",
-      "Dermoid cyst",
-      "Thyroglossal duct cyst"
-    ],
-    "answer": 1,
-    "explanation": "A ranula is a mucous extravasation cyst or retention cyst associated with the sublingual gland. It presents as a bluish, fluctuant, translucent swelling in the floor of the mouth, resembling a frog's belly (rana = frog). A plunging ranula extends through the mylohyoid into the submandibular space. Treatment is excision of the sublingual gland."
-  },
-  {
-    "id": 15,
-    "question": "The nerve that provides motor innervation to the tensor veli palatini is:",
-    "options": [
-      "Vagus nerve (CN X) via pharyngeal plexus",
-      "Facial nerve (CN VII)",
-      "Mandibular division of trigeminal (V3)",
-      "Glossopharyngeal nerve (CN IX)"
-    ],
-    "answer": 2,
-    "explanation": "The tensor veli palatini is the ONLY muscle of the soft palate NOT innervated by the vagus nerve. It receives motor innervation from the mandibular division (V3) of the trigeminal nerve via the nerve to the medial pterygoid. All other palatal muscles (levator veli palatini, palatoglossus, palatopharyngeus, musculus uvulae) are innervated by CN X via the pharyngeal plexus."
-  },
-  {
-    "id": 16,
-    "question": "A fracture of the pterion is dangerous because it can rupture the:",
+    "question": "The pterion is the thinnest part of the skull. A fracture here most commonly ruptures which vessel?",
     "options": [
       "Anterior cerebral artery",
       "Middle meningeal artery",
       "Superficial temporal artery",
-      "Internal carotid artery"
+      "Middle cerebral artery"
     ],
     "answer": 1,
-    "explanation": "The pterion is the thinnest part of the skull where the frontal, parietal, temporal, and greater wing of the sphenoid bones meet. The anterior branch of the middle meningeal artery runs directly beneath it. Fracture here can lacerate this artery, causing a rapidly expanding epidural hematoma with a 'lucid interval' presentation."
+    "explanation": "The middle meningeal artery runs directly beneath the pterion (where frontal, parietal, temporal, and sphenoid bones meet). Fracture here can lacerate this artery, causing an epidural hematoma — arterial bleeding between the skull and dura that is a neurosurgical emergency."
   },
   {
-    "id": 17,
-    "question": "Which muscle is attached to the articular disc of the TMJ and pulls it anteriorly during mouth opening?",
+    "id": 14,
+    "question": "A patient has hoarseness after thyroid surgery. Which nerve was most likely damaged?",
     "options": [
-      "Masseter",
-      "Superior head of lateral pterygoid",
-      "Inferior head of lateral pterygoid",
-      "Medial pterygoid"
-    ],
-    "answer": 1,
-    "explanation": "The superior head of the lateral pterygoid has fibers that insert into the anterior aspect of the articular disc and joint capsule of the TMJ. It stabilizes and pulls the disc anteriorly during mouth opening and functions during closing movements. The inferior head inserts into the pterygoid fovea of the condylar neck and is primarily responsible for jaw opening and protrusion."
-  },
-  {
-    "id": 18,
-    "question": "A patient cannot close the eye on the affected side, has drooping of the mouth corner, and cannot wrinkle the forehead on that side. The lesion is most likely at:",
-    "options": [
-      "Upper motor neuron (cortical lesion)",
-      "Lower motor neuron (peripheral CN VII lesion — e.g., Bell's palsy)",
-      "Trigeminal motor nucleus",
-      "Cervical spinal cord"
-    ],
-    "answer": 1,
-    "explanation": "Complete ipsilateral facial paralysis including the forehead indicates a LOWER motor neuron lesion (e.g., Bell's palsy). In an upper motor neuron lesion, the forehead is spared because the frontalis muscle receives bilateral cortical innervation. LMN lesion = entire ipsilateral face affected. UMN lesion = contralateral lower face only."
-  },
-  {
-    "id": 19,
-    "question": "Which of the following structures passes through the superior orbital fissure but OUTSIDE the tendinous ring (annulus of Zinn)?",
-    "options": [
-      "Optic nerve (CN II)",
-      "Trochlear nerve (CN IV)",
-      "Abducens nerve (CN VI)",
-      "Nasociliary nerve (V1)"
-    ],
-    "answer": 1,
-    "explanation": "The trochlear nerve (CN IV), along with the lacrimal nerve, frontal nerve, and superior ophthalmic vein, passes through the superior orbital fissure but OUTSIDE the tendinous ring. CN III (both divisions), CN VI, and the nasociliary nerve pass INSIDE the ring. CN II passes through the optic canal (also within the ring)."
-  },
-  {
-    "id": 20,
-    "question": "The glossopharyngeal nerve (CN IX) carries sensory fibers from the carotid body. What does the carotid body detect?",
-    "options": [
-      "Blood pressure changes",
-      "Blood oxygen and CO2 levels (chemoreception)",
-      "Head position and movement",
-      "Temperature changes in blood"
-    ],
-    "answer": 1,
-    "explanation": "The carotid body is a peripheral chemoreceptor located at the bifurcation of the common carotid artery. It detects changes in blood O2, CO2, and pH levels. Its afferent fibers travel via the carotid branch of CN IX (nerve of Hering) to the solitary nucleus. The carotid SINUS (different structure) is a baroreceptor that detects blood pressure changes, also innervated by CN IX."
-  },
-  {
-    "id": 21,
-    "question": "A patient develops hoarseness after thyroid surgery. Which nerve was most likely injured?",
-    "options": [
-      "External laryngeal nerve (superior)",
+      "Superior laryngeal nerve (external branch)",
       "Recurrent laryngeal nerve",
-      "Hypoglossal nerve",
-      "Glossopharyngeal nerve"
-    ],
-    "answer": 1,
-    "explanation": "The recurrent laryngeal nerve runs in the tracheoesophageal groove close to the thyroid gland and is vulnerable during thyroidectomy. It innervates all intrinsic laryngeal muscles EXCEPT the cricothyroid. Unilateral damage causes ipsilateral vocal cord paralysis and hoarseness. Bilateral damage can cause airway obstruction. The external branch of the superior laryngeal nerve affects pitch but typically doesn't cause overt hoarseness."
-  },
-  {
-    "id": 22,
-    "question": "Which anatomical space is bounded by the two heads of the lateral pterygoid muscle superiorly and inferiorly, and contains the maxillary artery?",
-    "options": [
-      "Pterygomandibular space",
-      "Infratemporal fossa (pterygoid part)",
-      "Pterygopalatine fossa",
-      "Masticator space"
-    ],
-    "answer": 1,
-    "explanation": "The maxillary artery (second part) passes either superficial or deep to the lateral pterygoid muscle as it courses through the infratemporal fossa toward the pterygopalatine fossa. The two heads of the lateral pterygoid muscle (superior from the greater wing of sphenoid, inferior from the lateral pterygoid plate) define this region of the infratemporal fossa."
-  },
-  {
-    "id": 23,
-    "question": "The internal jugular vein is separated from the internal carotid artery within the carotid sheath. Which cranial nerve lies between them posteriorly?",
-    "options": [
-      "Hypoglossal nerve (CN XII)",
-      "Vagus nerve (CN X)",
-      "Glossopharyngeal nerve (CN IX)",
-      "Spinal accessory nerve (CN XI)"
-    ],
-    "answer": 1,
-    "explanation": "The vagus nerve (CN X) descends within the carotid sheath, lying posterior and between the internal carotid artery (medially) and internal jugular vein (laterally). This relationship is constant and clinically important during procedures involving the carotid sheath, such as central line placement and carotid endarterectomy."
-  },
-  {
-    "id": 24,
-    "question": "A Le Fort II fracture follows a pyramidal pattern. Which of the following structures is typically involved?",
-    "options": [
-      "Zygomatic arches bilaterally",
-      "Infraorbital rim, nasal bones, and pterygoid plates",
-      "Only the maxillary alveolar process",
-      "Frontozygomatic sutures bilaterally"
-    ],
-    "answer": 1,
-    "explanation": "Le Fort II (pyramidal fracture) extends from the nasal bridge, through the medial orbital walls, across the infraorbital rims, and posteriorly through the pterygoid plates. It separates the maxilla in a pyramidal segment from the rest of the facial skeleton. Le Fort I separates the lower maxilla (horizontal), and Le Fort III separates the entire face from the cranium (craniofacial disjunction)."
-  },
-  {
-    "id": 25,
-    "question": "The parasympathetic secretomotor fibers to the parotid gland follow which pathway?",
-    "options": [
-      "CN VII → chorda tympani → lingual nerve → submandibular ganglion",
-      "CN IX → lesser petrosal nerve → otic ganglion → auriculotemporal nerve",
-      "CN VII → greater petrosal nerve → pterygopalatine ganglion",
-      "CN X → pharyngeal plexus → parotid branch"
-    ],
-    "answer": 1,
-    "explanation": "Parasympathetic secretomotor innervation of the parotid: preganglionic fibers arise from the inferior salivatory nucleus, travel via CN IX → tympanic nerve (Jacobson's nerve) → tympanic plexus → lesser petrosal nerve → otic ganglion (synapse). Postganglionic fibers hitchhike on the auriculotemporal nerve (V3) to reach the parotid. This pathway is commonly tested."
-  },
-  {
-    "id": 26,
-    "question": "Which nerve is at risk during surgical removal of an impacted mandibular third molar when roots are in close proximity to the mandibular canal?",
-    "options": [
-      "Mental nerve",
-      "Mylohyoid nerve",
-      "Inferior alveolar nerve",
-      "Buccal nerve"
-    ],
-    "answer": 2,
-    "explanation": "The inferior alveolar nerve travels through the mandibular canal directly beneath the roots of mandibular molars. Impacted third molars with roots approximating or surrounding the canal put this nerve at risk during surgical extraction. Damage causes numbness of the ipsilateral lower lip, chin, and teeth — a serious complication. The lingual nerve (lingual flap retraction) is also at risk but is not within the canal."
-  },
-  {
-    "id": 27,
-    "question": "A child presents with a midline neck swelling that elevates on tongue protrusion. The most likely diagnosis is:",
-    "options": [
-      "Branchial cleft cyst",
-      "Cystic hygroma",
-      "Thyroglossal duct cyst",
-      "Dermoid cyst"
-    ],
-    "answer": 2,
-    "explanation": "A thyroglossal duct cyst is a midline neck mass that moves with swallowing AND with tongue protrusion (pathognomonic sign). It develops from remnants of the thyroglossal duct along the path of thyroid descent from the foramen cecum of the tongue to the pretracheal position. Branchial cleft cysts are located laterally along the anterior border of the sternocleidomastoid."
-  },
-  {
-    "id": 28,
-    "question": "The anterior belly of the digastric muscle is innervated by the mylohyoid nerve, a branch of which nerve?",
-    "options": [
-      "Facial nerve (CN VII)",
-      "Inferior alveolar nerve (branch of V3)",
       "Hypoglossal nerve (CN XII)",
       "Glossopharyngeal nerve (CN IX)"
     ],
     "answer": 1,
-    "explanation": "The mylohyoid nerve branches from the inferior alveolar nerve (V3) before it enters the mandibular foramen. It descends in the mylohyoid groove and innervates the mylohyoid muscle and the anterior belly of the digastric. The POSTERIOR belly of the digastric is innervated by the facial nerve (CN VII). This dual innervation is frequently tested."
+    "explanation": "The recurrent laryngeal nerve runs in the tracheoesophageal groove close to the thyroid gland. It innervates all intrinsic laryngeal muscles except the cricothyroid. Unilateral damage causes vocal cord paralysis and hoarseness. It is the most commonly injured nerve during thyroidectomy."
+  },
+  {
+    "id": 15,
+    "question": "The retropharyngeal space is clinically dangerous because it communicates directly with the:",
+    "options": [
+      "Oral cavity",
+      "Mediastinum",
+      "Middle cranial fossa",
+      "Parotid space"
+    ],
+    "answer": 1,
+    "explanation": "The retropharyngeal space extends from the skull base to the superior mediastinum (around T1-T4 level). Infections in this space can spread directly into the mediastinum, causing life-threatening mediastinitis. This is why retropharyngeal abscesses require urgent drainage."
+  },
+  {
+    "id": 16,
+    "question": "The tongue deviates to the RIGHT on protrusion. Which nerve is damaged?",
+    "options": [
+      "Left hypoglossal nerve (CN XII)",
+      "Right hypoglossal nerve (CN XII)",
+      "Right lingual nerve",
+      "Left vagus nerve (CN X)"
+    ],
+    "answer": 1,
+    "explanation": "The tongue deviates toward the side of the lesion in a hypoglossal nerve (CN XII) injury. The genioglossus on the damaged side is paralyzed, so the intact opposite genioglossus pushes the tongue toward the affected side. Right deviation = right CN XII damage."
+  },
+  {
+    "id": 17,
+    "question": "Which nerve provides parasympathetic secretomotor innervation to the parotid gland?",
+    "options": [
+      "Facial nerve (CN VII)",
+      "Glossopharyngeal nerve (CN IX)",
+      "Vagus nerve (CN X)",
+      "Trigeminal nerve (V3)"
+    ],
+    "answer": 1,
+    "explanation": "The glossopharyngeal nerve (CN IX) provides parasympathetic innervation to the parotid gland. The pathway is: CN IX → tympanic nerve → lesser petrosal nerve → otic ganglion (synapse) → postganglionic fibers hitchhike on the auriculotemporal nerve (V3) to reach the parotid gland."
+  },
+  {
+    "id": 18,
+    "question": "During extraction of a maxillary molar, an oroantral communication occurs. Which sinus is now connected to the oral cavity?",
+    "options": [
+      "Frontal sinus",
+      "Maxillary sinus",
+      "Ethmoidal sinus",
+      "Sphenoidal sinus"
+    ],
+    "answer": 1,
+    "explanation": "The maxillary sinus floor is closely related to the roots of maxillary premolars and molars. During extraction, the thin bone separating the roots from the sinus can fracture, creating an oroantral communication. Patients may notice air passage from mouth to nose or fluid entering the nose when drinking."
+  },
+  {
+    "id": 19,
+    "question": "The vagus nerve (CN X) travels within the carotid sheath. What is its position relative to the internal carotid artery and internal jugular vein?",
+    "options": [
+      "Anterior to both",
+      "Posterior, between the artery and vein",
+      "Lateral to the vein",
+      "Medial to the artery"
+    ],
+    "answer": 1,
+    "explanation": "Within the carotid sheath, the vagus nerve lies posteriorly in the groove between the internal carotid artery (medial) and the internal jugular vein (lateral). This consistent relationship is important during neck surgeries and central line placement."
+  },
+  {
+    "id": 20,
+    "question": "A child presents with a midline neck swelling that moves upward when the tongue is protruded. Most likely diagnosis?",
+    "options": [
+      "Branchial cleft cyst",
+      "Cystic hygroma",
+      "Thyroglossal duct cyst",
+      "Enlarged lymph node"
+    ],
+    "answer": 2,
+    "explanation": "A thyroglossal duct cyst is a midline neck mass that moves upward with tongue protrusion — this is pathognomonic. It arises from remnants of the thyroglossal duct along the thyroid's descent path from the foramen cecum of the tongue to its final pretracheal position. Branchial cleft cysts are lateral, along the sternocleidomastoid."
+  },
+  {
+    "id": 21,
+    "question": "The mylohyoid nerve is a branch of which nerve?",
+    "options": [
+      "Lingual nerve",
+      "Inferior alveolar nerve (V3)",
+      "Facial nerve (CN VII)",
+      "Hypoglossal nerve (CN XII)"
+    ],
+    "answer": 1,
+    "explanation": "The mylohyoid nerve branches from the inferior alveolar nerve (a branch of V3) just BEFORE it enters the mandibular foramen. It innervates the mylohyoid muscle and the anterior belly of the digastric. This is why a supplemental mylohyoid nerve block may be needed when an IAN block gives incomplete mandibular molar anesthesia."
+  },
+  {
+    "id": 22,
+    "question": "Which fascial space infection can cause rapid airway obstruction due to tongue elevation?",
+    "options": [
+      "Buccal space infection",
+      "Ludwig's angina (bilateral submandibular space)",
+      "Canine space infection",
+      "Parotid space infection"
+    ],
+    "answer": 1,
+    "explanation": "Ludwig's angina is a bilateral infection involving the submandibular, sublingual, and submental spaces. Swelling pushes the tongue upward and backward, rapidly obstructing the airway. It is a life-threatening emergency requiring immediate airway management, IV antibiotics, and often surgical drainage."
+  },
+  {
+    "id": 23,
+    "question": "The greater palatine nerve exits through the greater palatine foramen to innervate which area?",
+    "options": [
+      "Anterior hard palate and gingiva of incisors",
+      "Posterior hard palate mucosa and gingiva of premolars/molars",
+      "Soft palate only",
+      "Floor of mouth"
+    ],
+    "answer": 1,
+    "explanation": "The greater palatine nerve (a branch of V2 via the pterygopalatine ganglion) exits through the greater palatine foramen near the junction of the hard and soft palate. It runs anteriorly to innervate the mucosa and gingiva of the posterior hard palate up to the premolar region. The anterior palate is innervated by the nasopalatine nerve."
+  },
+  {
+    "id": 24,
+    "question": "The TMJ articular disc divides the joint into two compartments. Rotational (hinge) movement occurs in which compartment?",
+    "options": [
+      "Superior compartment",
+      "Inferior compartment",
+      "Both compartments equally",
+      "Neither — rotation occurs outside the joint"
+    ],
+    "answer": 1,
+    "explanation": "The inferior compartment (between the disc and mandibular condyle) allows rotational (hinge) movement during the initial phase of mouth opening. The superior compartment (between the disc and temporal bone) allows translational (gliding) movement during wide opening and protrusion."
+  },
+  {
+    "id": 25,
+    "question": "Which nerve is most at risk when raising a lingual flap during mandibular third molar surgery?",
+    "options": [
+      "Inferior alveolar nerve",
+      "Lingual nerve",
+      "Mylohyoid nerve",
+      "Buccal nerve"
+    ],
+    "answer": 1,
+    "explanation": "The lingual nerve lies close to the lingual surface of the mandible in the third molar region, sometimes at or above the level of the alveolar crest. It is at risk during lingual flap elevation in third molar surgery. Damage causes numbness and loss of taste on the ipsilateral anterior two-thirds of the tongue."
+  },
+  {
+    "id": 26,
+    "question": "The spinal accessory nerve (CN XI) crosses which triangle of the neck superficially, making it vulnerable to injury?",
+    "options": [
+      "Anterior triangle",
+      "Posterior triangle",
+      "Submental triangle",
+      "Carotid triangle"
+    ],
+    "answer": 1,
+    "explanation": "The spinal accessory nerve crosses the posterior triangle of the neck superficially, running on the floor of the triangle over the levator scapulae. It innervates the sternocleidomastoid and trapezius muscles. Its superficial course makes it the most commonly injured nerve during posterior triangle procedures, especially lymph node biopsy."
+  },
+  {
+    "id": 27,
+    "question": "The lateral pterygoid muscle has two heads. The inferior head inserts into the:",
+    "options": [
+      "Articular disc of the TMJ",
+      "Pterygoid fovea on the condylar neck",
+      "Coronoid process",
+      "Angle of the mandible"
+    ],
+    "answer": 1,
+    "explanation": "The inferior head of the lateral pterygoid originates from the lateral pterygoid plate and inserts into the pterygoid fovea on the anterior surface of the condylar neck. It is the primary muscle for mandibular protrusion and mouth opening. The superior head inserts mainly into the articular disc and joint capsule."
+  },
+  {
+    "id": 28,
+    "question": "The uvula deviates to the LEFT when the patient says 'ahh.' Which side has the nerve injury?",
+    "options": [
+      "Left vagus nerve (CN X)",
+      "Right vagus nerve (CN X)",
+      "Left glossopharyngeal nerve (CN IX)",
+      "Left hypoglossal nerve (CN XII)"
+    ],
+    "answer": 1,
+    "explanation": "The uvula deviates toward the INTACT side. If the uvula deviates to the left, the left palatal muscles are working normally (pulling the uvula left) while the RIGHT side is paralyzed. Therefore, the RIGHT vagus nerve is damaged. The vagus innervates the levator veli palatini via the pharyngeal plexus."
   },
   {
     "id": 29,
-    "question": "Which structure is at greatest risk during ligation of the external carotid artery near the superior thyroid artery?",
+    "question": "Which nerve provides general sensation (touch, pain) to the posterior one-third of the tongue?",
     "options": [
-      "Internal jugular vein",
-      "External branch of the superior laryngeal nerve",
-      "Recurrent laryngeal nerve",
-      "Hypoglossal nerve"
+      "Lingual nerve (V3)",
+      "Glossopharyngeal nerve (CN IX)",
+      "Vagus nerve (CN X)",
+      "Chorda tympani (CN VII)"
     ],
     "answer": 1,
-    "explanation": "The external branch of the superior laryngeal nerve (from CN X) runs closely with the superior thyroid artery before innervating the cricothyroid muscle. It is at risk during ligation of the superior thyroid artery or superior pole thyroidectomy. Damage causes inability to tense the vocal cord, affecting voice pitch (the 'high-pitched voice nerve')."
+    "explanation": "The glossopharyngeal nerve (CN IX) provides both general sensation (touch, pain, temperature) AND taste sensation to the posterior one-third of the tongue. The anterior two-thirds receives general sensation from the lingual nerve (V3) and taste from the chorda tympani (CN VII)."
   },
   {
     "id": 30,
-    "question": "A patient presents with ptosis, miosis, and anhidrosis on the right side of the face. This is consistent with:",
+    "question": "Horner syndrome (ptosis, miosis, anhidrosis) results from disruption of which nervous system pathway?",
     "options": [
-      "Oculomotor nerve (CN III) palsy",
-      "Horner syndrome (sympathetic chain disruption)",
-      "Facial nerve (CN VII) palsy",
-      "Trigeminal nerve (CN V) lesion"
+      "Parasympathetic pathway to the eye",
+      "Sympathetic chain",
+      "Oculomotor nerve (CN III)",
+      "Facial nerve (CN VII)"
     ],
     "answer": 1,
-    "explanation": "Horner syndrome results from disruption of the sympathetic chain at any point from the hypothalamus to the eye. The classic triad is: ptosis (loss of sympathetic innervation to Müller's muscle), miosis (unopposed parasympathetic pupillary constriction), and anhidrosis (loss of sympathetic sudomotor fibers to the face). Causes include Pancoast tumor, carotid dissection, and lateral medullary syndrome."
+    "explanation": "Horner syndrome results from disruption of the sympathetic pathway at any point from the hypothalamus to the eye. Ptosis occurs from loss of Müller's muscle innervation, miosis from unopposed parasympathetic pupil constriction, and anhidrosis from loss of sympathetic sweat gland innervation. Causes include Pancoast tumor, carotid dissection, and brainstem lesions."
   }
 ]
